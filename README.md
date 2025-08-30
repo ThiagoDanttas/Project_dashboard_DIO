@@ -1,14 +1,16 @@
-# Projeto Dashboard XBOX GAME PASS - DIO
+# Dashboard Xbox Game Pass - DIO
 
-### Este projeto realiza uma análise de gênero dos consumidores do Xbox Game Pass, utilizando dados de um curso como base. O objetivo principal é entender a distribuição de gênero entre os assinantes e correlacionar essas informações com dados de faturamento.
+### Descrição
+Este projeto tem como objetivo analisar a distribuição de gênero dos assinantes do Xbox Game Pass, utilizando dados fornecidos em um curso da DIO. Além disso, busca-se correlacionar essas informações com dados de faturamento, permitindo insights sobre o perfil dos consumidores.
 
-1- Objetivo<br/>
-Criar um dashboard interativo, analisando os gêneros sexuais dos consumidores. 
+## Objetivo
+Desenvolver um dashboard interativo que permita explorar a distribuição de gênero entre os usuários do Xbox Game Pass.
 
-2- Metodo<br/>
-A partir da mesma base contida no curso DIO, utilizei a Inteligência Artificial DeepSeek para detectar o gênero sexual a partir dos nomes dos compradores. 
+## Método
+A partir da base de dados disponibilizada no curso DIO, utilizei a inteligência artificial **DeepSeek** para identificar o gênero dos compradores com base em seus nomes. Essa informação foi incorporada como uma nova coluna na base de dados, enriquecendo a análise.
 
-Link do dash: [dash_by_gender.xlsx](https://github.com/user-attachments/files/22061507/dash_by_gender.xlsx)
+## Acesso ao Dashboard
+Você pode acessar o dashboard interativo neste arquivo: [dash_by_gender.xlsx](https://github.com/user-attachments/files/22061507/dash_by_gender.xlsx)
 
-<img width="1085" height="659" alt="image" src="https://github.com/user-attachments/assets/56c93d92-4be8-4d0d-bab3-c1de8735daaa" />
-
+## Visualização
+<img width="1085" height="659" alt="Dashboard Xbox Game Pass" src="https://github.com/user-attachments/assets/56c93d92-4be8-4d0d-bab3-c1de8735daaa" />
